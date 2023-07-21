@@ -46,7 +46,8 @@ The code is written in Python and you need to install (if not present yet) the f
 + matplotlib
 + scipy
 
-
+# References
+Graham Griffiths. Neutron diffusion.02 2018. URL https://www.researchgate.net/publication/323035158_Neutron_diffusion
 
 
 
