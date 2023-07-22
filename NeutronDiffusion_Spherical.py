@@ -16,6 +16,7 @@ def a(k):
 #Analytical relation k(a)
 def f(k,r):
     lam_t=0.0360
+    #lam_t=0.0411 for Plutonium Analysis
     return k*r*(np.tan(k*r))**(-1)+3/2*r/lam_t-1
 
 #Criticality condition alfa=0
