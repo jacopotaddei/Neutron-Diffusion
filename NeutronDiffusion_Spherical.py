@@ -68,6 +68,9 @@ mu=2.6786*10**5
 eta=3.0055*10**8
 lam_t=0.0411
 
+Note: For the analysis of Plutonium is necessary also to change the value lam_t 
+      inside the function f(k,r) at the row n. 17
+
 '''
 
 #Initialization of the problem
